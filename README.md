@@ -20,8 +20,7 @@ pip install numpy pandas scikit-learn nltk tensorflow keras
 
 1. Create the repository:
 
-```git repository: https://github.com/manoharanr129/Chatbot
-```
+git repository: https://github.com/manoharanr129/Chatbot
 
 2. Navigate to the project directory:
 
